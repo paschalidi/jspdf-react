@@ -13,19 +13,19 @@ cd jspdf-react
 
 3. install dependencies
 
-```
-yarn
-```
-or
-```
-npm install
-```
+  ```
+  yarn
+  ```
+  or
+  ```
+  npm install
+  ```
 
-4. 
-```
-yarn start
-```
-or
-```
-npm start
-```
+4. start the app
+  ```
+  yarn start 
+  ```
+  or
+  ```
+  npm start
+  ```
